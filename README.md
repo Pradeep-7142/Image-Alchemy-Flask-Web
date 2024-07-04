@@ -1,8 +1,8 @@
-Image Alchemy Flask Web--
+Image Alchemy Flask Web :
 
 Welcome to the Image Alchemy Flask Web project! This web application allows users to perform various image processing operations such as rotating, flipping, adjusting contrast and brightness, and applying blur to images.
 
-Features
+Features :
 
 1. Rotate Image: Rotate images by any angle.
 
@@ -14,7 +14,7 @@ Features
 
 5. Apply Blur: Blur images to reduce noise or for artistic effect.
 
-FOLDER AND FILE SET--
+FOLDER AND FILE SET :
 
 1. Project_Folder
 
@@ -22,7 +22,7 @@ FOLDER AND FILE SET--
 
    static    ( Put your css and js files here)
 
-   .py   ( this main file having main logic of your code)
+   app.py   ( this main file having main logic of your code)
 
    requirements.txt (file for all the packages to be installed)
 
