@@ -1,4 +1,4 @@
-🖼️ Image Alchemy Flask Web - Advanced Image Processing
+# 🖼️ Image Alchemy Flask Web - Advanced Image Processing
 
 Welcome to Image Alchemy Flask Web – a web application that enables users to perform various image processing operations effortlessly! 🎨✨
 
