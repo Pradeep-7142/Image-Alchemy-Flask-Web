@@ -2,7 +2,7 @@
 
 Welcome to Image Alchemy Flask Web – a web application that enables users to perform various image processing operations effortlessly! 🎨✨
 
-🌟 Features
+# 🌟 Features
 
 ✅ Rotate Image – Rotate images by any angle.
 ✅ Flip Image – Flip images vertically or horizontally.
@@ -10,7 +10,7 @@ Welcome to Image Alchemy Flask Web – a web application that enables users to p
 ✅ Adjust Brightness – Change brightness levels as needed.
 ✅ Apply Blur – Blur images to reduce noise or for artistic effects.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Backend: Python 🐍 (Flask for web functionality)
 
@@ -18,7 +18,7 @@ Frontend: HTML, CSS & JavaScript 🎨
 
 Image Processing: OpenCV & PIL 🖌️
 
-🚀 How It Works?
+# 🚀 How It Works?
 
 1️⃣ Upload an image via the web interface.
 2️⃣ Choose an image processing operation.
@@ -36,13 +36,13 @@ Image Processing: OpenCV & PIL 🖌️
 
 📄 requirements.txt – List of required dependencies.
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 🔹 More Filters & Effects – Add grayscale, sepia, and edge detection.
 🔹 Batch Processing – Allow users to process multiple images simultaneously.
 🔹 Cloud Integration – Store and access images from cloud storage.
 
-📧 Contact
+#📧 Contact
 
 For any queries or suggestions, reach out at: mrindia555666@gmail.com
 
